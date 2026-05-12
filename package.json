@@ -1,0 +1,13 @@
+{
+  "name": "xcrawl-scraper-template",
+  "version": "1.0.0",
+  "description": "Template for building web scrapers with XCrawl Proxy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "xcrawl-scraper": "^1.0.0"
+  },
+  "license": "MIT"
+}
